@@ -11,7 +11,10 @@ A curated list of awesome papers, codes, and software for asteroid tracking, ins
 ## Implementations
 
 
+- [OpenStarstacker](http://openstartracker.org/) | [Code](https://github.com/UBNanosatLab/openstartracker)
+> A fast, robust, open source startracker based on a new class of baysian startracker algorithms
 
+- 
 
 
 ## Papers
@@ -29,7 +32,7 @@ A curated list of awesome papers, codes, and software for asteroid tracking, ins
 
 #### Free software
 - [NEO detector](https://www.cloudynights.com/topic/627050-new-asteroidneo-detector/) |  [Download (Win)](https://drive.google.com/file/d/1Gc53IVeJqemBpVrfG6Ayaw713SUrusgc/view)
-- [Umbrella2](https://github.com/mostanes/umbrella2) | [Paper](https://arxiv.org/abs/2008.04724) | [Download](https://github.com/mostanes/umbrella2/releases/tag/v3.1)
-- [Umbrella2 EURONEAR](https://github.com/mostanes/umbrella2-euronear) | [Download](https://github.com/mostanes/umbrella2-euronear/releases/tag/v1.1.1)
-
+- [Umbrella2](https://github.com/mostanes/umbrella2) | [Paper](https://arxiv.org/abs/2008.04724) | [Download](https://github.com/mostanes/umbrella2/releases/tag/)
+- [Umbrella2 EURONEAR](https://github.com/mostanes/umbrella2-euronear) | [Download](https://github.com/mostanes/umbrella2-euronear/releases/tag/)
+- [OreSat Star Tracker Software](https://github.com/oresat/oresat-star-tracker-software) | [Download](https://github.com/oresat/oresat-star-tracker-software/tags)
 
