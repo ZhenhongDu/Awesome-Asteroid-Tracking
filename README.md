@@ -9,13 +9,21 @@ A curated list of awesome papers, codes, and software for asteroid tracking, ins
 - [Softwares](#references)
 
 ## Implementations
-
+#### Point-based method
 
 - [OpenStarstacker](http://openstartracker.org/) | [Code](https://github.com/UBNanosatLab/openstartracker)
 > A fast, robust, open source startracker based on a new class of baysian startracker algorithms
 #### Stripe-based method
+- [ASTRiDe](https://github.com/dwkim78/ASTRiDE) | [code](https://github.com/dwkim78/ASTRiDE)
+> ASTRiDE aims to detect streaks in astronomical images using a "border" of each object and their morphological parameters.
+
+
 - [pyradon](https://github.com/guynir42/pyradon) | [Code](https://github.com/guynir42/pyradon)
-> Streak detection Python package, based on the Fast Radon Transform (FRT)
+> Streak detection Python package, based on the Fast Radon Transform (FRT).
+
+
+- [Towards Asteroid Detection in Microlensing Surveys with Deep Learning](https://github.com/pcowan-astro/MOA-Asteroids) | [Code](https://github.com/pcowan-astro/MOA-Asteroids) | [Paper](https://arxiv.org/abs/2211.02239)
+> A YOLOv4 network was used to detect asteroid tracklets.
 
 ## Papers
 
