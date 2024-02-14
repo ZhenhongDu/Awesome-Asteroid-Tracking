@@ -32,8 +32,14 @@ A curated list of awesome papers, codes, and software for asteroid tracking, ins
 #### Image processing-based method
 - [Matched Filter Processing for Asteroid Detection](http://dx.doi.org/10.1086/444415)
 
+- [Sifting through the static: Moving object detection in difference images](https://doi.org/10.3847/1538-3881/ac22ff) | [Code](https://github.com/dirac-institute/kbmod)
+> KBMOD is a set of Python tools to search astronomical images for moving objects based upon method of maximum likelihood detection.
 
 #### AI-based methods
+- [Asteroid Detection and Risk Prediction for the Earth](https://www.semanticscholar.org/paper/Asteroid-Detection-and-Risk-Prediction-for-the-Jain-Shethia/2eb59ea7212d22aac433d46fb7e303d8915c2e4f) | [PDF](https://amostech.com/TechnicalPapers/2021/Poster/Jain.pdf)
+
+- [Discovering faint and high apparent motion rate near-Earth asteroids using a deep learning program](https://dx.doi.org/10.1093/mnras/stac2347)
+> Stripe-based method
 
 - [AI-Based Real-Time Star Tracker](https://dx.doi.org/10.3390/electronics12092084)
 
@@ -49,7 +55,11 @@ A curated list of awesome papers, codes, and software for asteroid tracking, ins
 - [DIGITAL TRACKING OBSERVATIONS CAN DISCOVER ASTEROIDS 10 TIMES FAINTER THAN CONVENTIONAL SEARCHES](http://dx.doi.org/10.1088/0004-6256/150/4/125)
 > Digital tracking
 
+
+
 ## Theses
+- [The Detection of Faint Asteroids by the Shifting and Stacking of Difference Images](https://ir.canterbury.ac.nz/items/92247f19-9230-4a84-a302-9f61878238f9) | [PDF](https://ir.canterbury.ac.nz/bitstream/handle/10092/10815/Edward_Ashton_MSc.pdf?sequence=1)
+  
 - [Asteroids-for-all: building an open-source asteroid detection linking software](https://repository.wellesley.edu/object/ir1199) | [PDF](https://repository.wellesley.edu/_flysystem/fedora/2023-11/WCTC_2020_TanNicole_Asteroidsforallbuild.pdf)
 
 
