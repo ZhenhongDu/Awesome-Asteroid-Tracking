@@ -24,8 +24,8 @@ A curated list of awesome papers, codes, and software for asteroid tracking, ins
 ## Software
 
 #### Commercial software
-- [Tycho Tracker](https://www.tycho-tracker.com/)
-- [Astrometrica](http://iasc.cosmosearch.org/Home/Astrometrica)
+- [Tycho Tracker](https://www.tycho-tracker.com/) | [Download (Win, Mac)](https://www.tycho-tracker.com/download)
+- [Astrometrica](http://iasc.cosmosearch.org/Home/Astrometrica) | [Download (Win)](http://iasc.cosmosearch.org/Content/Distributables/astrometrica-setup-v1.4.exe)
 
 #### Free software
 
