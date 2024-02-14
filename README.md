@@ -28,10 +28,25 @@ A curated list of awesome papers, codes, and software for asteroid tracking, ins
 > A YOLOv4 network was used to detect asteroid tracklets.
 
 ## Papers
+#### Image processing-based method
+- [Matched Filter Processing for Asteroid Detection](http://dx.doi.org/10.1086/444415)
 
 
+#### AI-based methods
+
+- [AI-Based Real-Time Star Tracker](https://dx.doi.org/10.3390/electronics12092084)
+
+- [Dim and Small Space-Target Detection and Centroid Positioning Based on Motion Feature Learning](http://dx.doi.org/10.3390/rs15092455)
 
 
+#### Others
+
+- [FINDING VERY SMALL NEAR-EARTH ASTEROIDS USING SYNTHETIC TRACKING](https://dx.doi.org/10.1088/0004-637X/782/1/1)
+> Synthetic tracking
+
+
+- [DIGITAL TRACKING OBSERVATIONS CAN DISCOVER ASTEROIDS 10 TIMES FAINTER THAN CONVENTIONAL SEARCHES](http://dx.doi.org/10.1088/0004-6256/150/4/125)
+> Digital tracking
 
 
 ## Softwares
