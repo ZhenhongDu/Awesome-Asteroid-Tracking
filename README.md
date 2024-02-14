@@ -13,9 +13,9 @@ A curated list of awesome papers, codes, and software for asteroid tracking, ins
 
 - [OpenStarstacker](http://openstartracker.org/) | [Code](https://github.com/UBNanosatLab/openstartracker)
 > A fast, robust, open source startracker based on a new class of baysian startracker algorithms
-
-- 
-
+#### Stripe-based method
+- [pyradon](https://github.com/guynir42/pyradon) | [Code](https://github.com/guynir42/pyradon)
+> Streak detection Python package, based on the Fast Radon Transform (FRT)
 
 ## Papers
 
