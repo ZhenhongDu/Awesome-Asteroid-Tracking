@@ -6,7 +6,8 @@ A curated list of awesome papers, codes, and software for asteroid tracking, ins
 ## Contents
 - [Implementations](#implementations) 
 - [Papers](#papers)
-- [Softwares](#references)
+- [Theses](#theses)
+- [Softwares](#softwares)
 
 ## Implementations
 #### Point-based method
@@ -47,6 +48,9 @@ A curated list of awesome papers, codes, and software for asteroid tracking, ins
 
 - [DIGITAL TRACKING OBSERVATIONS CAN DISCOVER ASTEROIDS 10 TIMES FAINTER THAN CONVENTIONAL SEARCHES](http://dx.doi.org/10.1088/0004-6256/150/4/125)
 > Digital tracking
+
+## Theses
+- [Asteroids-for-all: building an open-source asteroid detection linking software](https://repository.wellesley.edu/object/ir1199) | [PDF](https://repository.wellesley.edu/_flysystem/fedora/2023-11/WCTC_2020_TanNicole_Asteroidsforallbuild.pdf)
 
 
 ## Softwares
