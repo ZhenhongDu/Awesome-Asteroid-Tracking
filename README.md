@@ -10,6 +10,8 @@ A curated list of awesome papers, codes, and software for asteroid tracking, ins
 
 ## Implementations
 #### Point-based method
+- [asteroid detection from Sloan Digital Sky Survey (SDSS) images](https://github.com/xquery/sdss_asteroid_detect) | [Code](https://github.com/xquery/sdss_asteroid_detect)
+> Small collection of utilities for detecting moving objects within sdss images.
 
 - [OpenStarstacker](http://openstartracker.org/) | [Code](https://github.com/UBNanosatLab/openstartracker)
 > A fast, robust, open source startracker based on a new class of baysian startracker algorithms
