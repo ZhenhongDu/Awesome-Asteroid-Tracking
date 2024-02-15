@@ -11,6 +11,9 @@ A curated list of awesome papers, codes, and software for asteroid tracking, ins
 
 ## Implementations
 #### Point-based method
+- [DeepSegAsteroidTracker](zhenhongdu.github.io/asteroid_tracking/) | [Code](https://github.com/ZhenhongDu/DeepSegAsteroidTracker)
+> AI-assisted asteroid tracking
+ 
 - [asteroid detection from Sloan Digital Sky Survey (SDSS) images](https://github.com/xquery/sdss_asteroid_detect) | [Code](https://github.com/xquery/sdss_asteroid_detect)
 > Small collection of utilities for detecting moving objects within sdss images.
 
