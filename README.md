@@ -64,7 +64,7 @@ A curated list of awesome papers, codes, and software for asteroid tracking, ins
 
 
 
-## Theses
+## Thesis
 - [The Detection of Faint Asteroids by the Shifting and Stacking of Difference Images](https://ir.canterbury.ac.nz/items/92247f19-9230-4a84-a302-9f61878238f9) | [PDF](https://ir.canterbury.ac.nz/bitstream/handle/10092/10815/Edward_Ashton_MSc.pdf?sequence=1)
   
 - [Asteroids-for-all: building an open-source asteroid detection linking software](https://repository.wellesley.edu/object/ir1199) | [PDF](https://repository.wellesley.edu/_flysystem/fedora/2023-11/WCTC_2020_TanNicole_Asteroidsforallbuild.pdf)
